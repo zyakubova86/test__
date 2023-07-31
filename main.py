@@ -1,4 +1,4 @@
-# testing some git features
+# Main branch 
 
 def add(a, b):
     return a + b
@@ -16,15 +16,3 @@ def fib_recurs(n):
     if n in (1, 2):
         return 1
     return fib(n - 1) + fib(n - 2)
-
-
-# changes from repo 
-print("Testing...")
-
-# Another change test
-print("test2")
-
-# changes from repo 
-print("Testing...")
-
-# Master
