@@ -17,6 +17,12 @@ def fib_recurs(n):
         return 1
     return fib(n - 1) + fib(n - 2)
 
+<<<<<<< HEAD
 
 # Another change test
 print("test2")        
+=======
+# changes from repo 
+print("Testing...")
+    
+>>>>>>> 56a7013 (Update main.py)
